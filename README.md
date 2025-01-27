@@ -22,7 +22,7 @@ pip install -r requirements.txt
 2. Place your input images in the `pics_in` folder
 3. Run the script:
 ```bash
-python resize_images.py
+python resize-images.py
 ```
 4. Resized images will be saved in the `pics_out` folder
 
