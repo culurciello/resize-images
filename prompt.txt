@@ -1,0 +1,4 @@
+Write a program in python to take all aimges from folder "pics_in" and convert them to 1920 x 1080 pixels sixe.
+The script needs to detect faces and make sure the entire head of a person is included in the cropped image.
+Save all the cropped images to folder "pics_out".
+Do not rotate images in portrait mode, just crop them.
